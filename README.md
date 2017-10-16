@@ -27,3 +27,5 @@ Stevens-Laptop:bin stevenfan$ source activate
 (mypython2.7) Stevens-Laptop:bin stevenfan$
 
 6. After this, any command pip to install python package, will be installed under ~/virtualenvironment/mypython2.7/lib
+
+More info, please refer to http://www.pythonforbeginners.com/development/development-environment-in-python
