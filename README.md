@@ -28,4 +28,6 @@ Stevens-Laptop:bin stevenfan$ source activate
 
 6. After this, any command pip to install python package, will be installed under ~/virtualenvironment/mypython2.7/lib
 
+7. if wnat to deactivate virtual environment, using command "deactivate"
+
 More info, please refer to http://www.pythonforbeginners.com/development/development-environment-in-python
