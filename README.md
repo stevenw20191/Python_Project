@@ -16,7 +16,7 @@ $ mkdir ~/virtualenvironment
 $ virtualenv --python /usr/bin/python mypython2.7
 
 4. Create virtual env for Python 3.6 (by default, python 3.6 will be loated at /Library/Frameworks/Python.framework/Versions/3.6)
-$ virtualenv mypython3
+$ virtualenv --python /Library/Frameworks/Python.framework/Versions/3.6 mypython3
 
 5. Enter into special environment (for example, to Python 2.7)
 $ cd ~/virtualenvironment/mypython2.7/bin
