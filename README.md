@@ -30,4 +30,6 @@ Stevens-Laptop:bin stevenfan$ source activate
 
 7. if wnat to deactivate virtual environment, using command "deactivate"
 
+8. Generally, python3 need install manually (for example, on mac, using "brew install python3"
+
 More info, please refer to http://www.pythonforbeginners.com/development/development-environment-in-python
