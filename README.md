@@ -1,6 +1,6 @@
 # Python_Project
 
-How to setup Virtual environment for Python
+## How to setup Virtual environment for Python
 
 1. Install virtualrnv package
   - $ sudo apt-get install python-virtualenv  
@@ -33,3 +33,10 @@ Stevens-Laptop:bin stevenfan$ source activate
 8. Generally, python3 need install manually (for example, on mac, using "brew install python3"
 
 More info, please refer to http://www.pythonforbeginners.com/development/development-environment-in-python
+
+## How to debug Python
+1. Usingng pdb module pdb (import it)
+```
+   import pdb
+   pdb.set_trace()
+```
