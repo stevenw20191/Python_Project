@@ -70,3 +70,12 @@ h <topic>	Show help for a command or topic.
 h pdb	Show the full pdb documentation.
 q	Quit the debugger and exit.
 ```
+## Python Unit Test
+reference: [Python Test Framework](https://realpython.com/python-testing/)
+1. Choosing a Test Runner
+There are many test runners available for Python. The one built into the Python standard library is called unittest. In this tutorial, you will be using unittest test cases and the unittest test runner. The principles of unittest are easily portable to other frameworks. The three most popular test runners are:
+```
+unittest
+nose or nose2
+pytest
+```
